@@ -1,3 +1,8 @@
+/*
+  MAY 2022 TALPAY
+  PROJE İSMİ: Face Tracking With Camera
+*/
+
 import cv2
 
 face_cascade = cv2.CascadeClassifier("C:\\Users\\fujitsu\\Desktop\\Yeni_klasor\\haarcascade_frontalface_default.xml")
