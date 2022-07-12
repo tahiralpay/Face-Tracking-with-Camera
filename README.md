@@ -1,4 +1,4 @@
-# Face-Detection-with-Camera
+# Face-Tracking-With-Camera
 Real time detect from a webcam.
 <p align="center">
   <img width="683" height="352" src="https://user-images.githubusercontent.com/75435070/169713922-0ce654da-b00a-41ba-8ce0-04a36aa8fb7b.jpeg">
